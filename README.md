@@ -17,7 +17,7 @@ I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br>
 ### Hands On
 
 <p align="center">
-  <img src="https://icons.duckduckgo.com/ip3/rakahomelab.my.id.ico" width="20" height="20" /> <b>Collaborating With <a href="https://rakahomelab.my.id">Rakahomelab</a></b>
+  <img src="https://icons.duckduckgo.com/ip3/rakahomelab.my.id.ico" width="20" height="20" /> <b>Collaborating with <a href="https://rakahomelab.my.id">Rakahomelab</a></b>
   <br>
   <img src="https://scontent.fcgk3-2.fna.fbcdn.net/v/t39.30808-1/495489379_1232817118595206_6192700526377965014_n.jpg?stp=c32.0.666.666a_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeHfxQHfcihos9oF9xGMszcm3f_m8BidmB3d_-bwGJ2YHUaWgLbBD4uwClOt8pqygaKgnBDEBuDg7t0y0IFdcsDp&_nc_ohc=Hc2Q6B77TogQ7kNvwEC-KDG&_nc_oc=AdrN9zcEO7rI4DYfYyQOWKjlwEKQwXGJ2MOznOFFUacWOAokF4aUI7cY0CaSrSqhr6k&_nc_zt=24&_nc_ht=scontent.fcgk3-2.fna&_nc_gid=WCxNNRSXHI_GxP0q_Y1Y5Q&_nc_ss=8&oh=00_AfziUr0oFVlxIg5m5QrPO1g4ZLs6n92kgik76fC2q5qqoQ&oe=69C16438" width="20" height="20" /> <b>Content Planner at <a href="https://www.instagram.com/netracreative/">Netra Creative Agency</a></b>
 </p>
