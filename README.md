@@ -30,8 +30,6 @@ I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br>
   </a>
 </p>
 
----
-
 **Focusing on:** Branding, Visual Identity, and UI/UX Design. <br>
 **Learning:** How tech & infrastructure empower creative solutions. <br>
 **Goal:** Meaningful designs that function perfectly in the digital ecosystem.
