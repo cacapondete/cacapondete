@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Marcia! 👋
+# Hi there, I'm Marcia!
 
 <p align="center">
   <b>Visual Communication Design Student | Junior Brand Developer | Tech Enthusiast</b>
@@ -8,13 +8,17 @@
 
 ---
 
-### ✨ About Me
+### About Me
 
 I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br> I have a deep passion for bridging the gap between creative design and technical infrastructure. <br> Currently, I'm focusing on building solid brand identities and exploring the world of web development.
 
 ---
 
-### 🚀 Hands On
+### Hands On
+
+<p align="center">
+  Collaborating with <b><a href="https://rakahomelab.my.id">Rakahomelab</a></b> &nbsp; | &nbsp; Content Planner at <b><a href="https://www.instagram.com/netracreative/">Netra Creative Agency</a></b>
+</p>
 
 <p align="center">
   <a href="https://rakahomelab.my.id">
@@ -26,10 +30,6 @@ I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br>
   </a>
 </p>
 
-<p align="center">
-  Collaborating with <b><a href="https://rakahomelab.my.id">Rakahomelab</a></b> &nbsp; | &nbsp; Content Planner at <b><a href="https://www.instagram.com/netracreative/">Netra Creative Agency</a></b>
-</p>
-
 ---
 
 **Focusing on:** Branding, Visual Identity, and UI/UX Design. <br>
@@ -38,7 +38,7 @@ I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br>
 
 ---
 
-### 🛠️ Creative & Tech Stack
+### Creative & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ai,ps,figma,html,css,github,raspberrypi&perline=8" />
@@ -46,7 +46,7 @@ I'm a **Visual Communication Design** student based in Salatiga, Indonesia. <br>
 
 ---
 
-### 📬 Let's Connect!
+### Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cacapondete_)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:692022076@student.uksw.edu)
